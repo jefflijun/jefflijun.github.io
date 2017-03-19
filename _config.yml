@@ -4,3 +4,6 @@ JB :
     provider : google 
     google : 
     tracking_id : 'UA-93479834-1'
+
+
+google_analytics: UA-93479834-1
