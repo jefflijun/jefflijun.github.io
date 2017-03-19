@@ -1,0 +1,6 @@
+theme: next
+JB :
+  analytics :
+    provider : google 
+    google : 
+    tracking_id : 'UA-93479834-1'
